@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "../components/molecules/m-menu-item/style.scss";
+
+body {
+  font-family: "Montserrat", sans-serif !important;
+}

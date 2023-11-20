@@ -1,0 +1,79 @@
+{
+  "cards": [
+    {
+      "id": "b7a7d948-197c-11ec-9621-0242ac130002",
+      "no": "02",
+      "count": "52",
+      "image": "/img/02.jpg",
+      "name": "Summer 🏖🍹 Vibes!",
+      "receivedOn": "2021-09-01 20:21:14",
+      "collectionName": "summer Influ Pack 🌞",
+      "properties": [
+        { "name": "fire", "value": 98 },
+        { "name": "star", "value": 28100 }
+      ],
+      "poweredBy": "influencer_nick name",
+      "state": { "isOnSwap": true, "isOnSale": true },
+      "shareUrl": "https://indahash.com/cards/b7a7d948-197c-11ec-9621-0242ac130002",
+      "isOnSale": true,
+      "isOnSwap": false
+    },
+    {
+      "id": "c7a7d948-197c-11ec-9621-0242ac130003",
+      "no": "03",
+      "count": "52",
+      "image": "/img/03.jpg",
+      "name": "Eat them all! 🍞 🥪",
+      "receivedOn": "2021-08-01 20:21:14",
+      "collectionName": "health",
+      "properties": [
+        { "name": "fire", "value": 98 },
+        { "name": "star", "value": 28100 }
+      ],
+      "poweredBy": "influencer_nick name",
+      "state": { "isOnSwap": true, "isOnSale": true },
+      "shareUrl": "https://indahash.com/cards/b7a7d948-197c-11ec-9621-0242ac130002",
+      "isOnSale": false,
+      "isOnSwap": false
+    },
+    {
+      "id": "a7a7d948-197c-11ec-9621-0242ac130004",
+      "no": "14",
+      "count": "52",
+      "image": "/img/14.jpg",
+      "name": "Good-L👀king Jack",
+      "receivedOn": "2021-07-01 20:21:14",
+      "collectionName": "fashion",
+      "properties": [
+        { "name": "fire", "value": 98 },
+        { "name": "star", "value": 28100 }
+      ],
+      "poweredBy": "influencer_nick name",
+      "state": { "isOnSwap": true, "isOnSale": true },
+      "shareUrl": "https://indahash.com/cards/b7a7d948-197c-11ec-9621-0242ac130002",
+      "isOnSale": false,
+      "isOnSwap": false
+    },
+    {
+      "id": "f7a7d948-197c-11ec-9621-0242ac130005",
+      "no": "42",
+      "count": "52",
+      "image": "/img/42.jpg",
+      "name": "Garden 🍃👑 Queen",
+      "receivedOn": "2021-06-01 20:21:14",
+      "collectionName": "garden",
+      "properties": [
+        { "name": "fire", "value": 98 },
+        { "name": "star", "value": 28100 }
+      ],
+      "poweredBy": "influencer_nick name",
+      "state": { "isOnSwap": true, "isOnSale": true },
+      "shareUrl": "https://indahash.com/cards/b7a7d948-197c-11ec-9621-0242ac130002",
+      "isOnSale": false,
+      "isOnSwap": false
+    }
+  ],
+  "skip": 0,
+  "limit": 4,
+  "totalCount": 4
+}

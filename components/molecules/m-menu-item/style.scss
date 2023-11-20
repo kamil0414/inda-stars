@@ -1,0 +1,10 @@
+$pink-400: #ea70c3;
+$rose-400: #f5736d;
+
+.active .cards_svg__stop1 {
+  stop-color: $pink-400;
+}
+
+.active .cards_svg__stop2 {
+  stop-color: $rose-400;
+}
